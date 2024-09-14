@@ -1,0 +1,17 @@
+.Main-container{
+    border:1px solid red;
+    height: fit-content;
+    padding: 5vh 20vh 5vh 20vh;
+
+}
+.heading-text{
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: orangered;
+}
+.card-Holder{
+    padding: 2vh;
+    margin-top: 3vh;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    height:fit-content
+}
